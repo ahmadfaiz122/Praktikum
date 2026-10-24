@@ -130,7 +130,7 @@ Repository ini akan terus diperbarui sesuai dengan materi, latihan, dan tugas pr
 
 ## 👨‍💻 Author
 
-**Ibna Clevaro Syarif**
+**Ahmad Faiz Abdillah**
 
 Mahasiswa Kecerdasan Artifisial  
 Universitas Negeri Surabaya
